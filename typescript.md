@@ -5,3 +5,4 @@
 - [Angular, Node + TS](http://www.timecockpit.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript)
 - [ES6 Modules](http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/)
 - [Babel vs Typescript](http://www.ministryofprogramming.com/how-babel-compares-against-typescript/)
+- [DefinitelyTyped](https://github.com/DefinitelyTyped)
