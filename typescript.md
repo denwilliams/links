@@ -7,3 +7,4 @@
 - [Babel vs Typescript](http://www.ministryofprogramming.com/how-babel-compares-against-typescript/)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped)
 - [Typescript Require](https://github.com/theblacksmith/typescript-require)
+- [An introduction to TypeScript’s module system](https://blog.oio.de/2014/01/31/an-introduction-to-typescript-module-system/)
