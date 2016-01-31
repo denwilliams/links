@@ -1,0 +1,1 @@
+- [Typescript Deep Dive - Basarat Ali Syed](https://basarat.gitbooks.io/typescript/content/)
