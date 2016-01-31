@@ -6,3 +6,4 @@
 - [ES6 Modules](http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/)
 - [Babel vs Typescript](http://www.ministryofprogramming.com/how-babel-compares-against-typescript/)
 - [DefinitelyTyped](https://github.com/DefinitelyTyped)
+- [Typescript Require](https://github.com/theblacksmith/typescript-require)
