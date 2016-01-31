@@ -1,1 +1,7 @@
 - [Typescript Deep Dive - Basarat Ali Syed](https://basarat.gitbooks.io/typescript/content/)
+- [Spec](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
+- [Handbook](http://www.typescriptlang.org/Handbook)
+- [Getting Started](http://blog.teamtreehouse.com/getting-started-typescript)
+- [Angular, Node + TS](http://www.timecockpit.com/devblog/2014/06/04/Learn-by-Example-AngularJS-NodeJS-and-Typescript)
+- [ES6 Modules](http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/)
+- [Babel vs Typescript](http://www.ministryofprogramming.com/how-babel-compares-against-typescript/)
